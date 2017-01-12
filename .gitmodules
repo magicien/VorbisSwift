@@ -1,0 +1,3 @@
+[submodule "ExternalFramework/OggSwift"]
+	path = ExternalFramework/OggSwift
+	url = git@github.com:magicien/OggSwift.git
