@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "425DF597765EEDAD002C9E99EA720D62B8CBB102",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "97A4C65FAE60577F662FC5EF92970BDF5CF01761" : 9223372036854775807,
+    "425DF597765EEDAD002C9E99EA720D62B8CBB102" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "10A5DF9C-8073-4286-87E9-1FBDF2C43856",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "97A4C65FAE60577F662FC5EF92970BDF5CF01761" : "VorbisSwift\/ExternalFramework\/OggSwift\/",
+    "425DF597765EEDAD002C9E99EA720D62B8CBB102" : "VorbisSwift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Vorbis",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "libvorbis-1.3.5\/macosx\/Vorbis.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github:magicien\/VorbisSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "425DF597765EEDAD002C9E99EA720D62B8CBB102"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github:magicien\/OggSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "97A4C65FAE60577F662FC5EF92970BDF5CF01761"
+    }
+  ]
+}

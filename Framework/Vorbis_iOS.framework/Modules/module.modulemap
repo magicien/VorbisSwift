@@ -1,0 +1,6 @@
+framework module Vorbis_iOS {
+  umbrella header "Vorbis_iOS.h"
+
+  export *
+  module * { export * }
+}

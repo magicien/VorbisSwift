@@ -1,0 +1,6 @@
+framework module Vorbis_tvOS {
+  umbrella header "Vorbis_tvOS.h"
+
+  export *
+  module * { export * }
+}

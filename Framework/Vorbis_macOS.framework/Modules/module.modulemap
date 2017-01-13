@@ -1,0 +1,6 @@
+framework module Vorbis_macOS {
+  umbrella header "Vorbis_macOS.h"
+
+  export *
+  module * { export * }
+}
